@@ -6,4 +6,4 @@ This work is provided as support for a paper by Hren and Brandon (2025) that inv
 The upload of content is pending as of July 21, 2025, and is expected to be completed within the next week.
 
 References
-Hren, M.T.; Brandon, M.T., 2025, Orographic precipitation, fossil leaf wax 2H and the paleotopography of the Eocene Sierra Nevada, California. Geosphere, revised version, in review. 
+Hren, M.T.; Brandon, M.T., 2025, Orographic precipitation, fossil leaf wax 𝛿^2H and the paleotopography of the Eocene Sierra Nevada, California. Geosphere, revised version, in review. 
